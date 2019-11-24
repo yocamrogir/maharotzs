@@ -1,0 +1,80 @@
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 1;
+    padding: 0;
+    unicode-bidi: embed;
+}
+<style>
+:root, .__fb-light-mode {
+    --fds-active-icon:  #3578E5;
+    --fds-attachment-footer-background:  #F2F3F5;
+    --fds-black:  #000000;
+    --fds-black-alpha-05:  rgba(0, 0, 0, 0.05);
+    --fds-black-alpha-10:  rgba(0, 0, 0, 0.1);
+    --fds-black-alpha-15:  rgba(0, 0, 0, 0.15);
+    --fds-black-alpha-20:  rgba(0, 0, 0, 0.2);
+    --fds-black-alpha-30:  rgba(0, 0, 0, 0.3);
+    --fds-black-alpha-40:  rgba(0, 0, 0, 0.4);
+    --fds-black-alpha-50:  rgba(0, 0, 0, 0.5);
+    --fds-black-alpha-60:  rgba(0, 0, 0, 0.6);
+    --fds-black-alpha-80:  rgba(0, 0, 0, 0.8);
+    --fds-blue-05:  #ECF3FF;
+    --fds-blue-31:  #AAC9FF;
+    --fds-blue-40:  #77A7FF;
+    --fds-blue-60:  #1877F2;
+    --fds-blue-70:  #2851A3;
+    --fds-blue-80:  #1D3C78;
+    --fds-blue-badge:  #1877F2;
+    --fds-blue-link:  #1877F2;
+    --fds-button-icon:  #444950;
+    --fds-button-text:  #444950;
+    --fds-comment-background:  #F2F3F5;
+    --fds-dark-mode-gray-35:  #CCCCCC;
+    --fds-dark-mode-gray-50:  #828282;
+    --fds-dark-mode-gray-70:  #4A4A4A;
+    --fds-dark-mode-gray-80:  #373737;
+    --fds-dark-mode-gray-90:  #282828;
+    --fds-dark-mode-gray-100:  #1C1C1C;
+    --fds-dark-ui-card-border:  #282828;
+    --fds-dark-ui-cards:  #1C1C1C;
+    --fds-dark-ui-disabled-icon:  #373737;
+    --fds-dark-ui-divider:  #282828;
+    --fds-dark-ui-medium-text:  #828282;
+    --fds-dark-ui-nav-bar:  #1C1C1C;
+    --fds-dark-ui-primary-icon:  #828282;
+    --fds-dark-ui-primary-text:  #CCCCCC;
+    --fds-dark-ui-secondary-icon:  #4A4A4A;
+    --fds-dark-ui-secondary-text:  #4A4A4A;
+    --fds-dark-ui-tab-bar:  #1C1C1C;
+    --fds-dark-ui-wash:  #000000;
+    --fds-data-mango:  #f5bb41;
+    --fds-disabled-icon:  #BEC3C9;
+    --fds-disabled-text:  #BEC3C9;
+    --fds-divider-on-wash:  #CCD0D5;
+    --fds-divider-on-white:  #DADDE1;
+    --fds-fast:  200ms;
+    --fds-fb-blue-70:  #4267B2;
+    --fds-fb-blue-75:  #385898;
+    --fds-gray-00:  #F5F6F7;
+Show All Properties (315 more)
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+color:rgb(27, 39, 30);
+direction:ltr;
+display:none;
